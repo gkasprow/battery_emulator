@@ -134,6 +134,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NEINSHEG
 
+[Document6]
+DocumentPath=LEAF2GRID.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueId=962A2294-1F7F-41AB-AC81-F271577DE1ED
 Description=Standard
